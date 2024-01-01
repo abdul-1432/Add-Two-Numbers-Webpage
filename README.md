@@ -21,7 +21,13 @@ A basic webpage that allows users to input two numbers and see their sum.
 
 ## Preview
 
-![Add Two Numbers Preview](preview.png)
+![after](https://github.com/abdul-1432/Add-Two-Numbers-Webpage/assets/124916666/ba2aa6cd-999d-4a5e-aab2-13dd5e815f11)
+
+
+
+
+![before](https://github.com/abdul-1432/Add-Two-Numbers-Webpage/assets/124916666/9ad20a4b-babc-4899-b59d-34e028c6afb2)
+
 
 ## Contributing
 
