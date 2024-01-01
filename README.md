@@ -1,6 +1,3 @@
-Certainly! Here's a simple GitHub README for your HTML and JavaScript code:
-
-```markdown
 # Add Two Numbers Webpage
 
 A basic webpage that allows users to input two numbers and see their sum.
