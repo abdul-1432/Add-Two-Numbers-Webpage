@@ -10,7 +10,7 @@ A basic webpage that allows users to input two numbers and see their sum.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/add-two-numbers-webpage.git
+   git clone https://github.com/abdul-1432/Add-Two-Numbers-Webpage.git
    ```
 
 2. Open the `index.html` file in your web browser.
